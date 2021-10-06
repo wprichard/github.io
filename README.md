@@ -17,8 +17,7 @@ You may of course also use a paid OCI account and your account will be charged f
 
 ### Workshop Modules
 
-[odsc-0-tenancy-setup-stack.md](https://github.com/wprichard/markdown-test/main/procedures/odsc-0-tenancy-setup-stack.md)
- https://github.com/user/repo/blob/branch/other_file.md 
+[odsc-0-tenancy-setup-stack.md](https://github.com/wprichard/markdown-test/blob/cc0d738785f6ac4c159819a0214b0b3fff4e5069/procedures/odsc-0-tenancy-setup-stack.md)
 
 [odsc-1-intro.md](odsc-1-intro.md)
 
